@@ -182,19 +182,19 @@ Exiting program!
 
 ## Getting Started
 
-[Click here to run on Repl.it](https://repl.it/@tknle/Valet-Parking-Application#main.cpp)
-
-To run this program, press the 'Run' button in repl.it
-
 
 ### Compilation
 
-If download or clone the repository, please run the following command.
+1. [Click here to run on Repl.it](https://repl.it/@tknle/Valet-Parking-Application#main.cpp)
+
+To run this program, press the **'Run'** button in **repl.it**
+
+2. If download or clone the repository, please run the following command.
 ```sh
  g++ -Wall -std=c++11 -g -o Car.cpp Menu.cpp Motorcycle.cpp Parking.cpp ParkingAppTester.cpp ReadWritable.cpp Utils.cpp Vehicle.cpp
 ```
 
-You can also run on Visual Studio by clicking the **ms5.vcxproj** file
+3. You can also run on Visual Studio by clicking the **ms5.vcxproj** file
 
 ## Author
 

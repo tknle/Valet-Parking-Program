@@ -201,7 +201,7 @@ To run this program, press the **'Run'** button in **repl.it**
 
 Mia Le
 
-**To avoid plagiarism please do not copy the code. Refer to Mia Le any part of the code you copied**
+**To avoid plagiarism please do not copy the code. Or refer to Mia Le any part of the code you copied**
 
 ## Project Link: 
 

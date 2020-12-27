@@ -13,7 +13,8 @@
   * [Exit Parking](#exit-parking)
 * [Getting Started](#getting-started)
   * [Compilation](#compilation)
- 
+  * [Author](#author)
+  * [Project Link](#project-link)
 
 ## About The Project
 
@@ -200,5 +201,8 @@ To run this program, press the **'Run'** button in **repl.it**
 
 Mia Le
 
-Project Link: 
+**To avoid plagiarism please do not copy the code. Refer to Mia Le any part of the code you copied**
+
+## Project Link: 
+
 [Project Link](https://github.com/tknle/Valet-Parking-Application)
